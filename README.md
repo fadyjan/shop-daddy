@@ -1,5 +1,5 @@
 ## Deployed Site
-[Pokemon Gallery](https://pokemon-gallery-git-master-fadyjan.vercel.app/)
+[Shop Daddy](https://shop-daddy.vercel.app/)
 
 
 
