@@ -1,0 +1,17 @@
+.contentWrapper{
+    min-height: 150px !important;
+}
+
+.Card{
+    min-width: 20%!important;
+}
+
+.CardImages{
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+}
+
+.CardImages:hover {
+
+    transform: scale(1.1);
+  }
